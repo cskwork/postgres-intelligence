@@ -1,0 +1,6 @@
+.env
+.venv/
+schema_metadata.json
+*.png
+__pycache__/
+*.pyc
