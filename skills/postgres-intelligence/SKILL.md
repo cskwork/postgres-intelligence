@@ -1,13 +1,8 @@
 ---
 name: postgres-intelligence
-description: Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe SQL, translate natural language into PostgreSQL queries, or analyze query performance without exposing credentials.
-license: MIT
-metadata:
-  author: cskwork
-  version: "1.0.0"
-  triggers: PostgreSQL, Postgres, SQL, database, schema, EXPLAIN, pg_catalog, information_schema
-  runtimes: Claude Code, Codex, Cursor, Windsurf, local LLM agents
+description: Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe SQL, translate natural language into...
 ---
+
 
 # postgres-intelligence
 
