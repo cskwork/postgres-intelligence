@@ -1,0 +1,4 @@
+# postgres-intelligence
+
+@./SKILL.md
+

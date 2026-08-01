@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "postgres-intelligence",
+  "description": "Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe SQL, translate natural language into Pos",
+  "owner": {
+    "name": "cskwork"
+  },
+  "plugins": [
+    {
+      "name": "postgres-intelligence",
+      "description": "Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe SQL, translate natural language into Pos",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
