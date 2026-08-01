@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="120" alt="logo" /></p>
+
 # postgres-intelligence
 
 PostgreSQL intelligence skill for LLM coding agents.
