@@ -1,6 +1,6 @@
-.env
-.venv/
-schema_metadata.json
-*.png
+.DS_Store
 __pycache__/
-*.pyc
+*.py[cod]
+evals/results/
+node_modules/
+dist/
