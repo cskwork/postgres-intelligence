@@ -15,7 +15,7 @@
     "claude-code",
     "codex"
   ],
-  "skills": "./",
+  "skills": "./skills/",
   "interface": {
     "displayName": "Postgres Intelligence",
     "shortDescription": "Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe ",
