@@ -1,6 +1,6 @@
 ---
 name: postgres-intelligence
-description: Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe SQL, translate natural language into...
+description: 'PostgreSQL for LLM agents: inspect schemas, run safe SQL, translate natural language to queries. Use when connecting to a database.'
 ---
 
 
