@@ -1,4 +1,4 @@
 # postgres-intelligence
 
-@./SKILL.md
+@./skills/postgres-intelligence/SKILL.md
 
