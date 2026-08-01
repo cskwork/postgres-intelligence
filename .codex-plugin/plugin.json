@@ -1,7 +1,7 @@
 {
   "name": "postgres-intelligence",
   "version": "0.1.0",
-  "description": "Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe SQL, translate natural language into PostgreSQL queries, or analyze query performance without exposing credentials.",
+  "description": "Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe SQL, translate natural language into...",
   "author": {
     "name": "cskwork",
     "url": "https://github.com/cskwork"
@@ -19,7 +19,7 @@
   "interface": {
     "displayName": "Postgres Intelligence",
     "shortDescription": "Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe ",
-    "longDescription": "Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe SQL, translate natural language into PostgreSQL queries, or analyze query performance without exposing credentials.",
+    "longDescription": "Use when an LLM agent needs to connect to PostgreSQL, inspect schemas, run safe SQL, translate natural language into...",
     "developerName": "cskwork",
     "category": "Productivity",
     "capabilities": [
